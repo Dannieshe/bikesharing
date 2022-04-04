@@ -14,19 +14,19 @@ After review of the resource file and with the assistance of Tableau certain asp
 1. Subcriber vs Occasional Customer- Of the 2.3 million users of the service 1.9 million are subscribers and 440,000 are the occasional customer. Because of this we can assume that it is likely we would also retain majority subscribers, meaning consistent revenue.
 
 2. Rider demographic- Of the 2.3 million users, 1.5 million are men, 588,00 are women and the remainder are of unspecified gender. 
-![This is an image](bikesharing/Viz/Customer_gender_breakdown.png)
+![This is an image](https://github.com/Dannieshe/bikesharing/blob/main/Viz/Customer_gender_breakdown.png)
 
 
 3. Bike checkouts- The data shows that bikes are typically checked out no longer than 30 minutes. And for longer rides its still generally under 1 hour. One might assume that these fast turn overs could mean that there would be no likely risk of bike shortages.
-![This is an image](bikesharing/Viz/Checkout_times.png)
+![This is an image](https://github.com/Dannieshe/bikesharing/blob/main/Viz/Checkout_times.png)
 
 
 4. Peak usage- Citibikes are used continually throughout the day but usage peaks during work commuting hours. We can also see that bikes are also used all day on weekends. 
-![This is an image](bikesharing/Viz/Peak_August.png)  ![This is an image](bikesharing/Viz/Trips_by_hour.png)
+![This is an image](https://github.com/Dannieshe/bikesharing/blob/main/Viz/Peak_August.png)  ![This is an image](https://github.com/Dannieshe/bikesharing/blob/main/Viz/Trips_by_hour.png)
 
 
 5. Utilization and repairs- There are some bikes that seem to get the majority of use while others seem to get hardly any at all. Bike repair for those oft used bikes would be paramount to maintaining safety and customer retention. 
-![This is an image](bikesharing/Viz/Utilization.png)
+![This is an image](https://github.com/Dannieshe/bikesharing/blob/main/Viz/Utilization.png)
 
 
 # Summary
